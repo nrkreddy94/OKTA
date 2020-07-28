@@ -1,0 +1,78 @@
+https://developer.okta.com/blog/2020/01/29/java-single-sign-on
+https://developer.okta.com/blog/2019/03/05/spring-boot-migration
+https://developer.okta.com/blog/2019/05/02/spring-boot-single-sign-on-oauth-2
+https://www.receivesms.co/us-phone-number/3433/
+https://developer.okta.com/code/java/
+
+
+781290
+140897.
+
+tanyaTester@mail.com / Test1234
+amandaTester@mail.com / Test12345
+Test1234
+
+ZSZKY5VRHEV3C562
+_oktaverification.www.selfokta.com
+665382646a6044368c17c73ca73c3f3e
+	
+
+Hostinger: 
+https://cpanel.hostinger.in/domains-manager/dns/id/49879441
+www.self-okta.site - registered domain for 1 year - paid service
+
+Reference: https://developer.okta.com/docs/guides/custom-url-domain/enable-the-custom-domain/
+OKTA - Custom domain URL:
+Host: _oktaverification.www.self-okta.site
+Value: 1b8d5be56da5467392160279d0edaf6d
+
+GET SSL Certicate form ZeroSSL:
+https://app.zerossl.com/certificate/verify/4500985a3064e21df40e3f7194ad0efd
+Ref: https://developer.okta.com/docs/guides/custom-url-domain/gather-information/
+
+_DF63FB53F6B70CBB236CD77EAFEC8E97.self-okta.site
+
+
+Cloudflare:
+https://dash.cloudflare.com/a0a3a139a5de69512987b6abb1246b17/self-okta.site
+
+
+
+
+https://blog.maqe.com/login-with-google-facebook-over-okta-d0e5308f457a
+https://github.com/okta/okta-auth-js#openid-connect-options
+https://developer.okta.com/blog/2019/02/19/add-social-login-to-spring-boot
+
+https://developer.okta.com/blog/2019/02/19/add-social-login-to-spring-boot
+https://toolkit.okta.com/apps/okta-java-ee-rest-api-example/
+https://developer.okta.com/blog/2020/01/29/java-single-sign-on
+https://developer.okta.com/blog/2018/10/16/token-auth-for-java
+https://developer.okta.com/quickstart-fragments/java/generic-implicit/
+https://developer.okta.com/docs/reference/postman-collections/
+
+https://developer.okta.com/blog/2017/03/30/react-okta-sign-in-widget
+
+https://www.okta.com/resources/whitepaper/okta-identity-management-for-portals-built-on-salesforce/
+https://developer.okta.com/docs/guides/custom-hosted-signin/-/customization-examples/
+https://developer.okta.com/blog/2019/05/15/spring-boot-login-options
+https://developer.okta.com/code/javascript/okta_auth_sdk/
+
+
+Make your custom domain an alias for your Okta domain
+Before Okta can serve traffic over your domain, you need to add an alias from your custom domain to the Okta subdomain of your Okta organization. You do this by creating or modifying a CNAME record for your custom domain name.
+
+Type	Host	Data
+CName	www.self-okta.site	dev-946487.customdomains.okta.com
+To create a CNAME record:
+
+If you haven't already, sign in to your Domain Name Registrar
+Find the option to modify your DNS Records
+Create a CNAME record for "www.self-okta.site" with the value: dev-946487.customdomains.okta.com
+Once the CNAME record is saved and confirmed by your DNS Registrar, you have completed setting up a Custom Domain Name for your Okta Organization. Okta is updating the cloud to serve traffic over your custom domain. It may take a few minutes to propagate the changes.
+
+Confirmation
+To confirm that Okta is serving traffic over HTTPS (TLS) for your custom domain, click the link below:
+https://www.self-okta.site
+Note that it may take up to 48 hours for these changes to propagate. Warning notices may appear on your custom URL domain until propagation is finished completely.
+
+Okta will continue to serve traffic through dev-946487.okta.com and your custom domain. If your changes do not appear within 48 hours, return to the configuration wizard and confirm your settings.
